@@ -111,7 +111,7 @@ SHAP (SHapley Additive exPlanations) reveals exactly which features drive churn 
 
 ## 📈 Power BI Dashboard
 
-![Dashboard](<img width="1133" height="798" alt="image" src="https://github.com/user-attachments/assets/6dcce4a4-787c-4adf-8f40-588e25c6b820" />
+![Dashboard](<img width="1133" height="798" alt="Image" src="https://github.com/user-attachments/assets/53270cf7-8b5f-42a6-8eb5-e72c8d894a29" />
 )
 
 ### KPI Cards
