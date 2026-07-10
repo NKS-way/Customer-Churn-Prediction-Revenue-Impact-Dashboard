@@ -90,9 +90,9 @@ XGBClassifier(
 ---
 
 ## 🔬 SHAP — Model Explainability
+<img width="1420" height="977" alt="shap_importance" src="https://github.com/user-attachments/assets/143523df-4f2d-435d-8af9-328794f90478" />
 
-![SHAP Beeswarm Plot](<img width="1420" height="977" alt="shap_importance" src="https://github.com/user-attachments/assets/fcb63efe-d2a8-4986-9553-23905e613344" />
-)
+![SHAP Beeswarm Plot]()
 
 SHAP (SHapley Additive exPlanations) reveals exactly which features drive churn predictions:
 
@@ -111,7 +111,7 @@ SHAP (SHapley Additive exPlanations) reveals exactly which features drive churn 
 
 ## 📈 Power BI Dashboard
 
-![Dashboard](<img width="1133" height="798" alt="Screenshot 2026-07-10 044144" src="https://github.com/user-attachments/assets/b9a24d97-2f2f-48d0-a8dd-be3a014927cd" />
+![Dashboard](<img width="1133" height="798" alt="image" src="https://github.com/user-attachments/assets/6dcce4a4-787c-4adf-8f40-588e25c6b820" />
 )
 
 ### KPI Cards
@@ -172,5 +172,5 @@ Revenue Recovered =
 
 ## 👤 Author
 
-**[Your Name]**  
-[LinkedIn](#) • [GitHub](#)
+**Nikhil Solanki**  
+
